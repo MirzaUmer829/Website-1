@@ -1,0 +1,86 @@
+nav.navbar{
+    background-color: yellow !important;
+    /* color: rgb(180, 8, 8) !important; */
+}
+div.Bg-img{
+    background-image:  url("../images/download.jpg");
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+}
+.fast{
+    /* text-align: center; */
+    margin-left: 6%;
+    padding-top: 60px;
+    color: yellow;
+    font-family: monospace;
+}
+.p-img{
+    margin-left: 6%;
+    padding-top: 20px;
+    color: yellow;
+    font-family: monospace;
+    padding-bottom: 5%;
+}
+.btn-img{
+    margin-left: 10%;
+    margin-bottom: 10%;
+    padding-bottom: 5px;
+    border-radius: 25px;
+    border-color: white;
+    color: black;
+    font-weight: bold;
+    font-family: serif;
+    background-color: yellow;
+    
+}
+.mb-0{
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+}
+.marquee{
+    background-color: yellow;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* .navbar-brand{
+    color: yellow;
+} */
+.dropdown-menu{
+    background-color: yellow;
+    
+}
+.box a:hover {
+    color: red;
+}
+.box{
+    transition: all 1s;
+    height: 100%;
+
+    
+}
+.box:hover{
+     box-shadow: rgba(188, 9, 9, 0.35) 0px 5px 15px !important;
+     color: white;
+     background: #E6DADA;  /* fallback for old browsers */
+     background: -webkit-linear-gradient(to right, #274046, #E6DADA);  /* Chrome 10-25, Safari 5.1-6 */
+     background: linear-gradient(to right, #274046, #E6DADA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     
+}
+.faqs{
+    background: #FFE000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #799F0C, #FFE000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #799F0C, #FFE000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /* background:linear-gradient(45deg,#000000,rgba(255, 255, 0, 0.87),#000000) ; */
+    /* background-color: black; */
+}
+.offset-md-2{
+    color: white;
+}
+/* .row  mb-5 mt-5 p-5 pt-0 pb-0:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+} */
